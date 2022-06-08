@@ -1,5 +1,4 @@
 #bot.py
-# TOKEN: OTY4MjQyOTg5NDgwNjg1NTg4.YmcAjQ.Eok77eAGGFLa3di9Ky3XdGlVK48
 # ps you need to type 'python3 bot.py' to get anything done into the terminal
 import os
 import discord
