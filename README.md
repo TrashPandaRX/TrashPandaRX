@@ -2,6 +2,8 @@
 
 I don't update things normally, mostly because I forgot about this. But I realized I really ought to have some of my code out here as I'm looking for employment right now as an entry level Software engineer or entry ai engineer. I'm trying to get my masters degree right now, but if I get an opportunity for an internship or better yet a job I'll just make time to do both somehow!
 
+Still looking for my little unity games that I did for class, they are one one of my hard drives somewhere...
+
 PS: if you sift through my stuff please forgive the language I use. 99.9% of the time the comments are all directed at myself so that I have...strong, salient wording to remind myself to handle some things I've neglected or begging for a future version of myself to fix some mess I made.
 
 - 🔭 I’m currently working on ... getting my masters degree in CS (focus in AI) from UNO.
