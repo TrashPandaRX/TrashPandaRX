@@ -29,6 +29,9 @@ intents.members = True
 client = nextcord.Client(intents = intents)  # enables all intents
 
 guild = nextcord.utils.find(lambda g: g.name == GUILD, client.guilds)
+# for some reason guild is None... im likely using it wrong, but at present, you cant use 'guild' for anything since it throws a big fat 'None' at you -- 7/19/22
+# 7/20/22 i just realized... this hasn't been executed yet because client.run(TOKEN) hasn't been called yet. mare-bot.py has some solutions to this iirc...
+
 startTime = time.time()
 
 '''
@@ -72,7 +75,7 @@ async def on_member_join(member):
     print(elapsed)
 
     # note to self. bot doesnt like to send TEXT + an IMAGE at the same time... but it has no qualms doing it as separate ACTIONS :D
-    # await member.dm_channel.send(file = nextcord.File('moo.png'))  -- broke after updating pylance 5/3 8:04pm
+    # await member.dm_channel.send(file = nextcord.File('moo.png'))  -- broke after updating pylance 5/3/22 8:04pm
     await member.dm_channel.send(file = nextcord.File(sampleimage))
 
 # experimenting -- doesnt work
