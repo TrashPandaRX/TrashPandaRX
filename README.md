@@ -25,3 +25,6 @@ And also looking for an entry level SE job so i can get on my feet
 - ⚡ Fun fact: ... My bachelors was in psychology because i was acutely afraid of mathematics despite having an strong curiosity in programming.
 But I got over that fear and wholeheartedly embrace my old weakness,
 even if some of the technically intensive calculations are still difficult, its enjoyable figuring it out now!
+
+8/25/23 update:
+Currently have experience in Python, C#, Ruby on Rails, JS/TS, React, Node.js, Java, C. My few months of professional experience were in fullstack software engineering using RoR + JS/TS + React + Node.js + PostgreSQL.
