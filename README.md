@@ -9,7 +9,7 @@ PS: if you sift through my stuff please forgive the language I use. 99.9% of the
 - 🔭 I’m currently working on ... getting my masters degree in CS (focus in AI) from UNO.
 And also looking for an entry level SE job so i can get on my feet
 
-- 🌱 I’m currently learning ... python, C# (unity focused atm), AI, java, and some prolog (will start learning SQL soon!)
+- 🌱 I’m currently learning ... python, C# (unity focused atm), AI, java, some SQL (primarily used PostgreSQL when I worked at Revature & Alpha Omega Integration)
 
 - 👯 I’m looking to collaborate on ... bots, modding games, debugging software, AI projects, pen testing, etc
 (theres so many interesting things to learn and do in CS its amazing!)
