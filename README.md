@@ -18,7 +18,7 @@ And also looking for an entry level SE job so i can get on my feet
 
 - 💬 Ask me about ... anything! I don't think I have anything to hide (aside from passwords and how many hours I sleep each night)
 
-- 📫 How to reach me: ... (efvalerius@gmail.com is my professional email, but efarve@me.com is the easiest to contact me. But i check both frequently)
+- 📫 How to reach me: ... (efvalerius@gmail.com is my professional email.)
 
 - 😄 Pronouns: ... he/him (but honestly idc what you call me, as long as you mean no disrespect)
 
